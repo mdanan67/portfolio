@@ -197,7 +197,7 @@ export default function Home() {
             </a>
           </nav>
           <a
-            href="/Atif_Mostoba.pdf"
+            href="/Atif Mostoba.pdf"
             className="border border-white/20 px-4 py-2 text-xs font-semibold uppercase tracking-[0.18em] transition hover:border-white hover:bg-white hover:text-black"
           >
             Resume
